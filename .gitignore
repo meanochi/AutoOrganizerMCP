@@ -10,3 +10,9 @@ wheels/
 .venv
 
 /node_modules
+
+.vscode/
+
+venv/
+
+Thumbs.db
